@@ -57,6 +57,47 @@ Conception de tableaux de bord interactifs
 pour explorer les données RH et faciliter
 leur interprétation.
 
+## Tableaux de bord Power BI
+
+Le projet HR Analytics comprend cinq tableaux de bord
+interactifs permettant d'explorer les principaux
+indicateurs de gestion des ressources humaines.
+
+### 1. Vue d'ensemble des ressources humaines
+
+Présentation des principaux indicateurs RH et
+de la situation globale des effectifs.
+
+![Vue d'ensemble RH](images/Vue_ensemble_RH.png)
+
+### 2. Effectifs et turnover
+
+Analyse de la répartition des employés et
+des mouvements du personnel.
+
+![Effectifs et turnover](images/Effectif_Turnover.png)
+
+### 3. Absentéisme
+
+Visualisation des indicateurs liés à l'absentéisme
+et au suivi des absences.
+
+![Absentéisme](images/Absentéisme.png)
+
+### 4. Rémunération et salaires
+
+Analyse des données salariales et
+de la rémunération des employés.
+
+![Rémunération et salaires](images/Rémunération_Salaire.png)
+
+### 5. Performance RH
+
+Présentation des indicateurs de performance
+des ressources humaines.
+
+![Performance RH](images/Performance.png)
+
 ## Indicateurs analysés
 
 - Nombre total d'employés.
