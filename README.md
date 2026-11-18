@@ -130,6 +130,14 @@ Il permet notamment de :
 - Améliorer la lisibilité des indicateurs.
 - Soutenir les décisions grâce à des visualisations interactives.
 
+## 📂 Fichiers du projet
+
+Les fichiers sources et les tableaux de bord sont disponibles ci-dessous :
+
+-  [Consulter le script SQL Server](sql/)
+-  [Accéder au rapport Power BI](powerbi/)
+-  [Visualiser les tableaux de bord](images/)
+
 ## Compétences démontrées
 
 SQL Server | SQL | Power BI | Power Query | DAX |
